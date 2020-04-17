@@ -1,1 +1,1 @@
-This project simulates the operations of virtual memory which includes a Page Table, Translation Lookaside Buffer (TLB), and a Frame Table. Pages are placed in a fully associative way in the memory. The write-back scheme with the dirty-bit optimization is also used.
+This project simulates the operations of virtual memory which includes a Page Table, Translation Lookaside Buffer (TLB), and a Frame Table. Pages are placed in a fully associative way in the memory. The write-back scheme with the dirty-bit optimization is also used. The Case Study is the simulation part of it. 
